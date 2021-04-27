@@ -245,3 +245,6 @@ On a batch of 8 sample, 6 of them were well predicted while 2 were not.
 <p align="center">
   <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/prediction.png"/>
 </p>
+
+
+## Metrics
