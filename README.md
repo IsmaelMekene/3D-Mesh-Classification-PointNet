@@ -25,11 +25,23 @@ The 10 Categories are:
 - [] sofa
 - [] monitor
 
-## Let's visualize one of them (bad)!
+## Let's visualize one of them (bed)!
+
+                                  Visualization without the Points Cloud
 
 <p align="center">
   <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/bed_new.gif"/>
 </p>
+
+
+                                  Visualization with the Points Cloud (4096 points)
+
+
+
+<p align="center">
+  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/bedmeshpoints.png"/>
+</p>
+
 
 
 ## Model
