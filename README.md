@@ -218,7 +218,8 @@ Model Summary:
                    __________________________________________________________________________________________________
                    
                    
-                   
+                 
+The training recorded an average loss of 1.987
                                                          Tensorboard graphs
                                                          
                                                        
@@ -227,4 +228,4 @@ Model Summary:
   <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/epoch_loss.svg"/>
 </p>
 
-The training recorded an average loss of 1.987
+
