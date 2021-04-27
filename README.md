@@ -218,8 +218,16 @@ Model Summary:
                    __________________________________________________________________________________________________
                    
                    
+                   
+
+
+
+
                  
 The training recorded an average loss of 1.987
+
+
+
                                                          Tensorboard graphs
                                                          
                                                        
