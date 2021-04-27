@@ -1,1 +1,1 @@
-# 3D-Mesh-Classification
+# 3D-Mesh-Classification-PointNet
