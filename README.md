@@ -237,3 +237,9 @@ The training recorded an average loss of 1.987
 </p>
 
 
+## Prediction on the Test set
+
+
+<p align="center">
+  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/prediction.png"/>
+</p>
