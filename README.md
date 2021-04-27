@@ -216,3 +216,12 @@ Model Summary:
                    Trainable params: 742,899
                    Non-trainable params: 6,080
                    __________________________________________________________________________________________________
+                   
+                   
+                   
+                   
+                   
+<p align="center">
+  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/epoch_loss.svg"/>
+</p>
+
