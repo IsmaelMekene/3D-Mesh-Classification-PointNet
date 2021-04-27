@@ -237,7 +237,9 @@ The training recorded an average loss of 1.987
 </p>
 
 
-## Prediction on the Test set
+## Prediction on the Test Set
+
+On a batch of 8 sample, 6 of them were well predicted while 2 were not.
 
 
 <p align="center">
