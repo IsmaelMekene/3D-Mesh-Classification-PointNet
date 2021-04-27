@@ -1,4 +1,4 @@
-# 3D-Mesh-Classification-PointNet
+# 🧩 3D-Mesh-Classification-PointNet 🌀
 
  
 This is a Computer Vision project aiming to apply deep learning to point clouds for object classification and part/scene semantic segmentation. The implementation of the model has been inspired from the original [PointNet](https://arxiv.org/abs/1612.00593) paper admited to CVPR 2017 at the Computer Vision and Pattern Recognition subjects. [PointNet](https://arxiv.org/abs/1612.00593) is indeed a seminal paper in 3D perception.
