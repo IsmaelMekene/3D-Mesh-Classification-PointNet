@@ -15,16 +15,16 @@ For simplicity, it’ll be assumed that a point in a point cloud is fully descri
 In the context of this project, we aquired Princeton ModelNet dataset of 10 classes already splitted into train and test sets.
 The 10 Categories are:
 
- - [] toilet
- - [] desk
- - [] table
- - [] bathtub
- - [] chair
- - [] bed
- - [] dresser
- - [] night_stand
- - [] sofa
- - [] monitor
+ - [ ] toilet
+ - [ ] desk
+ - [ ] table
+ - [ ] bathtub
+ - [ ] chair
+ - [ ] bed
+ - [ ] dresser
+ - [ ] night_stand
+ - [ ] sofa
+ - [ ] monitor
 
 ## Let's visualize one of them (bed)!
 
