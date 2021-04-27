@@ -51,3 +51,9 @@ Given that PointNet consumes raw point cloud data, it was necessary to develop a
 Permutation (Order) Invariance: given the unstructured nature of point cloud data, a scan made up of N points has N! permutations. The subsequent data processing must be invariant to the different representations.
 Transformation Invariance: classification and segmentation outputs should be unchanged if the object undergoes certain transformations, including rotation and translation.
 Point Interactions: the interaction between neighboring points often carries useful information (i.e., a single point should not be treated in isolation). Whereas classification need only make use of global features, segmentation must be able to leverage local point features along with global point features.
+
+<p align="center">
+  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/bedmeshpoints.png"/>
+</p>
+
+
