@@ -53,7 +53,7 @@ Transformation Invariance: classification and segmentation outputs should be unc
 Point Interactions: the interaction between neighboring points often carries useful information (i.e., a single point should not be treated in isolation). Whereas classification need only make use of global features, segmentation must be able to leverage local point features along with global point features.
 
 <p align="center">
-  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/bedmeshpoints.png"/>
+  <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/model.png"/>
 </p>
 
 
