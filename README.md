@@ -28,14 +28,14 @@ The 10 Categories are:
 
 ## Let's visualize one of them (bed)!
 
-                                  Visualization without the Points Cloud
+                                             Visualization without the Points Cloud
 
 <p align="center">
   <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/bed_new.gif"/>
 </p>
 
 
-                                  Visualization with the Points Cloud (4096 points)
+                                          Visualization with the Points Cloud (4096 points)
 
 
 
@@ -48,10 +48,17 @@ The 10 Categories are:
 ## Model
 
 Given that PointNet consumes raw point cloud data, it was necessary to develop an architecture that conformed to the unique properties of point sets. Among these, the authors emphasize:
-Permutation (Order) Invariance: given the unstructured nature of point cloud data, a scan made up of N points has N! permutations. The subsequent data processing must be invariant to the different representations.
-Transformation Invariance: classification and segmentation outputs should be unchanged if the object undergoes certain transformations, including rotation and translation.
-Point Interactions: the interaction between neighboring points often carries useful information (i.e., a single point should not be treated in isolation). Whereas classification need only make use of global features, segmentation must be able to leverage local point features along with global point features.
 
+- Permutation (Order) Invariance: given the unstructured nature of point cloud data, a scan made up of N points has N! permutations. The subsequent data processing must be invariant to the different representations.
+
+- Transformation Invariance: classification and segmentation outputs should be unchanged if the object undergoes certain transformations, including rotation and translation.
+
+- Point Interactions: the interaction between neighboring points often carries useful information (i.e., a single point should not be treated in isolation). Whereas classification need only make use of global features, segmentation must be able to leverage local point features along with global point features.
+ 
+ 
+
+                                                        PointNet Architechture
+                                                        
 <p align="center">
   <img src="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet/blob/main/data/model.png"/>
 </p>
